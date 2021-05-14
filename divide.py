@@ -1,5 +1,8 @@
-def divide(a,b):
-  return a/b
+def divide_fucntion(a, b):
+    if b != 0:
+        return a/b
+    else:
+        return 'b = 0
 
-This is a new change made to check conflict
 
+print(divide_fucntion(10, 2))

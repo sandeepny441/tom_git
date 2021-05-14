@@ -1,7 +1,5 @@
-def addition(a,b):
-  return a+b 
+def add_function(a, b):
+    return a+b
 
-def add_1(a):
-  return a+1
 
- 
+print(add_function(10, 20))
