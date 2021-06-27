@@ -1,7 +1,8 @@
-def addition(a,b):
-  return a+b 
+def add_function(a, b):
+    return a+b
 
-def add_1(a):
-  return a+1
 
  added new brach 
+=======
+print(add_function(10, 20))
+
